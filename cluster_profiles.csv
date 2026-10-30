@@ -1,0 +1,5 @@
+cluster,label,avg_daily_hrs,sessions_per_day,night_pct,weekend_diff_hrs,social_pct,games_pct,productivity_pct,entertainment_pct,education_pct,users,study_pct
+0,Productive / Study,3.71,16.88,7.07,2.28,10.48,2.99,44.56,10.22,31.75,50,76.31
+1,Night Owl,5.37,24.69,82.38,2.77,35.08,19.99,5.01,34.9,5.02,50,10.03
+2,Heavy Social,7.27,33.38,7.18,3.16,54.96,10.13,5.06,24.93,4.91,50,9.969999999999999
+3,Casual / Light,1.88,8.29,6.91,1.71,35.24,9.75,19.82,19.89,15.29,50,35.11

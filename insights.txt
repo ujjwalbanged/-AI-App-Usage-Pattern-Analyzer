@@ -1,0 +1,20 @@
+Productive / Study (50 users):
+  - raat (10PM-5AM) ka usage average se kaafi kam hai (7.1 vs 25.9)
+  - social apps ka share average se kaafi kam hai (10.5 vs 33.9)
+  - games ka share average se kaafi kam hai (3.0 vs 10.7)
+  - productivity apps ka share average se 2.4x zyada hai (44.6 vs 18.6)
+
+Night Owl (50 users):
+  - raat (10PM-5AM) ka usage average se 3.2x zyada hai (82.4 vs 25.9)
+  - games ka share average se 1.9x zyada hai (20.0 vs 10.7)
+  - productivity apps ka share average se kaafi kam hai (5.0 vs 18.6)
+
+Heavy Social (50 users):
+  - daily screen time average se 1.6x zyada hai (7.3 vs 4.6)
+  - raat (10PM-5AM) ka usage average se kaafi kam hai (7.2 vs 25.9)
+  - social apps ka share average se 1.6x zyada hai (55.0 vs 33.9)
+  - productivity apps ka share average se kaafi kam hai (5.1 vs 18.6)
+
+Casual / Light (50 users):
+  - daily screen time average se kaafi kam hai (1.9 vs 4.6)
+  - raat (10PM-5AM) ka usage average se kaafi kam hai (6.9 vs 25.9)
